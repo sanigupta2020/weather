@@ -1,2 +1,2 @@
-# weather
+# Get weather
 Practice Django app
